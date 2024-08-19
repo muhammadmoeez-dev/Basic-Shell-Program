@@ -3,7 +3,7 @@
 #############################
 # Author         : Muhammad Moeez 
 # Date           : Mon 19 Aug 2024
-# Description    : A simple script to show usage of string compare operator -z and -n
+# Description    : A simple script for case statement determining whether the character is a vowel or not
 ##############################
 
 echo -n "Enter a character: "
